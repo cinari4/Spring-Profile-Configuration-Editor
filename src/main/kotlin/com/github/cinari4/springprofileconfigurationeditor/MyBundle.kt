@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.cinari4.springprofileconfigurationeditor
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
